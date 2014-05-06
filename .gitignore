@@ -1,0 +1,12 @@
+_site/
+clientside/vendor/
+.sass-cache/
+clientside/stylesheets/
+node_modules
+nbproject/
+vendor/ruby
+.bundle
+bin/
+.ruby-version
+vendor/bower
+generated/
